@@ -1,6 +1,6 @@
-- 👋 Hi, I’m アンドレア
+- 👋 Hi, OverLoader
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning in goal-oriented academy
 
 
 
